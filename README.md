@@ -1,4 +1,4 @@
-# Mu-Auto-Attack# 🧠 Mu Auto Attack
+# 🧠 Mu Auto Attack
 
 Ferramenta automática de pentest em Python para reconhecimento e ataque básico a aplicações web. Baseado nos labs do projeto [Ethical Hacking Labs](https://github.com/Samsar4/Ethical-Hacking-Labs).
 
