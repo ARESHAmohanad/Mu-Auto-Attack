@@ -18,7 +18,7 @@ Ferramenta automática de pentest em Python para reconhecimento e ataque básico
 git clone https://github.com/ARESHAmohanad/Mu-Auto-Attack
 cd Mu-Auto-Attack
 chmod +x install.sh
-./install.sh
-python3 mu_auto_attack.py http://alvo.com
+sudo ./install.sh
+python3 mu_auto_attack.py http://example.com
 
 
