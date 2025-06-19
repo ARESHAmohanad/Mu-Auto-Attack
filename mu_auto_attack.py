@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 
 if len(sys.argv) != 2:
-    print("Uso: python mu_auto_attack.py http://alvo.com")
+    print("Uso: python mu_auto_attack.py http://example.com")
     sys.exit(1)
 
 alvo = sys.argv[1]
